@@ -68,6 +68,14 @@ This project is set up as a monorepo with pnpm workspaces.
 - Node.js v20
 - pnpm v10
 
+## Project scope
+
+This repository provides utilities and building blocks for working with onchain applications and integrations.
+
+The project is actively evolving and may include experimental APIs, internal helpers, or patterns that are still being refined. As a result, interfaces and behavior may change over time.
+
+The codebase is intended to support learning, prototyping, and incremental improvements. Contributions that improve clarity, documentation, and developer experience are welcome.
+
 ### Getting Started
 
 1. Clone the repository
